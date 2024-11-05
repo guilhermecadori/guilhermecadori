@@ -29,7 +29,7 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 ![scikit-learn](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/scikitlearn-svgrepo-com.svg)
 ![Numpy](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/numpy-svgrepo-com.svg)
 ![Pandas](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/pandas-svgrepo-com.svg)
-![Docker](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/c-plain.svg)
+![Docker](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/docker.svg)
 ![Kubernetes](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-kubernetes-50.svg)
 ![LLVM](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/llvm-svgrepo-com.svg)
 ![Cuda](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-nvidia-50.svg)
