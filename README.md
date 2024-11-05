@@ -1,4 +1,4 @@
-![Kaizen](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen-3.svg) 
+![Kaizen](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen.svg) 
 
 ## Guilherme Cadori
 ***
