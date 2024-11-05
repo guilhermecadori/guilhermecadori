@@ -10,6 +10,7 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 ### Languages
 
 ![Skill](https://www.codewars.com/users/guilhermecadori/badges/small)
+
 ![Skill2](URL:https://www.codewars.com/users/guilhermecadori/badges/micro)
 
 ![Python](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-python.svg)
