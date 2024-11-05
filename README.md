@@ -13,9 +13,10 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 
 ![Skill](https://www.codewars.com/users/guilhermecadori/badges/small)
 
+-- ![C]()
+
 ![Python](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-python.svg)
 ![Cpp](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-c%2B%2B-50.svg)
-![C]()
 ![PostgreSQL](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-postgresql-50.svg)
 ![Go](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-golang-50.svg)
 ![Rust](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/rust-svgrepo-com.svg)
@@ -25,14 +26,13 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 
 
 ### Tools
-![]()
-
-![LLVM]()
+--![LLVM]()
 ![TensorFlow]()
 ![scikit-learn]()
 ![Numpy]()
 ![Pandas]()
 ![Kubernetes]()
+
 ![Docker](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-kubernetes-50.svg)
 ![Pytorch](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-lanterna-96.svg)
 ![Cuda](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-nvidia-50.svg)
