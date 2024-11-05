@@ -4,7 +4,9 @@ I am an engineer with a strong interest in machine learning, optimization, and s
 
 I currently serve as a Modeling & Analytics Specialist at Accenture. I am also pursuing a Master’s degree in Applied Optimization and a Bachelor’s in Computer Science. I have also had the opportunity to complete part of my studies at The University of British Columbia, Canada. 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="filter: brightness(0) saturate(1000%) invert(51%) hue-rotate(210deg) brightness(200%);" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
+    <path fill="#00FFFF" d="M12 0L15 10H9L12 0zM2 10H0v2h2V10zm0 4H0v2h2v-2zM4 10H2v2h2v-2zm0 4H2v2h2v-2zM6 10H4v2h2v-2zm0 4H4v2h2v-2zM8 10H6v2h2v-2zm0 4H6v2h2v-2zM10 10H8v2h2v-2zm0 4H8v2h2v-2zM12 10h-2v2h2v-2zm0 4h-2v2h2v-2zM14 10h-2v2h2v-2zm0 4h-2v2h2v-2zM16 10h-2v2h2v-2zm0 4h-2v2h2v-2zM18 10h-2v2h2v-2zm0 4h-2v2h2v-2zM20 10h-2v2h2v-2zm0 4h-2v2h2v-2zM22 10h-2v2h2v-2zm0 4h-2v2h2v-2z"/>
+</svg>
 
 
 
