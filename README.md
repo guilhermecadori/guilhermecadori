@@ -32,7 +32,7 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 ![Docker](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/docker.svg)
 ![Kubernetes](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-kubernetes-50.svg)
 ![LLVM](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/llvm-svgrepo-com.svg)
-![MLIR](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/mlir-color-3.svg)
+![MLIR](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/mlir-color-dark-tritanopia.svg)
 ![Cuda](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-nvidia-50.svg)
 ![Git](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/git-color2.svg)
 ![Github](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-github-50.svg)
