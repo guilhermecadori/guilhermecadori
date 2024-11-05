@@ -31,7 +31,7 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 -- ![Pandas]()
 -- ![Docker]
 
-![Pytorch](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-lanterna-96.svg)
+![Pytorch](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-lanterna-48.svg)
 ![Kubernetes](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-kubernetes-50.svg)
 ![Cuda](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-nvidia-50.svg)
 ![Git](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-divis%C3%A3o-de-c%C3%B3digo-50.png)
