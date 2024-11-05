@@ -25,9 +25,13 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 
 ### Tools
 -- ![LLVM]()
+
 -- ![Numpy]()
+
 -- ![Pandas]()
--- ![Docker]
+
+-- ![Docker]()
+
 
 ![Pytorch](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-lanterna-48.svg)
 ![TensorFlow](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/tensorflow-svgrepo-com.svg)
