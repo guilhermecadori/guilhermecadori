@@ -1,4 +1,6 @@
-![Kaizen](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen-3.svg) ## Guilherme Cadori
+![Kaizen](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen-3.svg) 
+
+## Guilherme Cadori
 ***
 I am an engineer with a strong interest in machine learning, optimization, and solving complex problems through advanced algorithmic and quantitative approaches. Learning from others and sharing knowledge are two of my core values.
 
