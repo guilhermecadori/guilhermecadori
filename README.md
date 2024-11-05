@@ -4,7 +4,8 @@ I am an engineer with a strong interest in machine learning, optimization, and s
 
 I currently serve as a Modeling & Analytics Specialist at Accenture. I am also pursuing a Master’s degree in Applied Optimization and a Bachelor’s in Computer Science. I have also had the opportunity to complete part of my studies at The University of British Columbia, Canada. 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="filter: invert(32%) sepia(95%) saturate(6076%) hue-rotate(214deg) brightness(98%) contrast(107%);" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" style="filter: brightness(0) saturate(1000%) invert(51%) hue-rotate(210deg) brightness(200%);" />
+
 
 
 ### Languages
