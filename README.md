@@ -10,14 +10,10 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
           
 ![Python](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-python.svg)
 ![Cpp](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-c%2B%2B-50.svg)
-![Go](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-golang-50.svg)
 ![PostgreSQL](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-postgresql-50.svg)
 
 
 ### Tools
-![Pytorch](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-lanterna-48.svg)
-![CUDA](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-nvidia-50.svg)
-![Kubernetes](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-kubernetes-50.svg)
 ![Git](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-divis%C3%A3o-de-c%C3%B3digo-50.png)
 ![Github](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-github-50.svg)
 
