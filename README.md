@@ -25,13 +25,13 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 
 ### Tools
 -- ![LLVM]()
--- ![TensorFlow]()
--- ![scikit-learn]()
 -- ![Numpy]()
 -- ![Pandas]()
 -- ![Docker]
 
 ![Pytorch](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-lanterna-48.svg)
+![TensorFlow](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/tensorflow-svgrepo-com.svg)
+![scikit-learn](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/scikitlearn-svgrepo-com.svg)
 ![Kubernetes](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-kubernetes-50.svg)
 ![Cuda](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-nvidia-50.svg)
 ![Git](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-divis%C3%A3o-de-c%C3%B3digo-50.png)
