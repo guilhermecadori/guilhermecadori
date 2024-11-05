@@ -16,9 +16,9 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 ![Python](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-python.svg)
 ![Cpp](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-c%2B%2B-50.svg)
 ![C](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/c-plain.svg)
-![PostgreSQL](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-postgresql-50.svg)
 ![Go](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-golang-50.svg)
 ![Rust](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/rust-svgrepo-com.svg)
+![PostgreSQL](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-postgresql-50.svg)
 ![JavaScript](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-logo-java-coffee-cup-50.svg)
 
 
