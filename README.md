@@ -24,6 +24,7 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 
 ### Tools
 
+![Cuda](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-nvidia-50.svg)
 ![Pytorch](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-lanterna-48.svg)
 ![TensorFlow](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/tensorflow-svgrepo-com.svg)
 ![scikit-learn](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/scikitlearn-svgrepo-com.svg)
@@ -33,7 +34,6 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 ![Kubernetes](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-kubernetes-50.svg)
 ![LLVM](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/llvm-svgrepo-com.svg)
 ![MLIR](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/mlir-color-dark-tritanopia.svg)
-![Cuda](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-nvidia-50.svg)
 ![Git](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/git-color2.svg)
 ![Github](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-github-50.svg)
 
