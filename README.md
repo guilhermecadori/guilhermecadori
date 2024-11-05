@@ -13,7 +13,7 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 
 ![Skill](https://www.codewars.com/users/guilhermecadori/badges/small)
 
--- ![C]()
+--![C]()
 
 ![Python](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-python.svg)
 ![Cpp](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-c%2B%2B-50.svg)
@@ -23,18 +23,16 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 ![JavaScript](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-logo-java-coffee-cup-50.svg)
 
 
-
-
 ### Tools
---![LLVM]()
-![TensorFlow]()
-![scikit-learn]()
-![Numpy]()
-![Pandas]()
-![Kubernetes]()
+-- ![LLVM]()
+-- ![TensorFlow]()
+-- ![scikit-learn]()
+-- ![Numpy]()
+-- ![Pandas]()
+-- ![Docker]
 
-![Docker](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-kubernetes-50.svg)
 ![Pytorch](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-lanterna-96.svg)
+![Kubernetes](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-kubernetes-50.svg)
 ![Cuda](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-nvidia-50.svg)
 ![Git](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-divis%C3%A3o-de-c%C3%B3digo-50.png)
 ![Github](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-github-50.svg)
