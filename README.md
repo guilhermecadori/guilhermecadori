@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg" alt="Kaizen" width="300"/>
+    <img src="https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg" alt="Kaizen" height="600" width="600"/>
 </div>
 
 <p align="center" style="color:gray;">
