@@ -6,14 +6,12 @@
 </p>
 
 
-
 ## Guilherme Cadori
 
 I am an engineer with a strong interest in machine learning, optimization, and solving complex problems through advanced algorithmic and quantitative approaches. Learning from others and sharing knowledge are two of my core values.
 
 I currently serve as a Modeling & Analytics Specialist at Accenture. I am also pursuing a Master’s degree in Applied Optimization and a Bachelor’s in Computer Science. I have also had the opportunity to complete part of my studies at The University of British Columbia, Canada. 
 
-***
 
 ### Languages
 
@@ -45,5 +43,4 @@ I currently serve as a Modeling & Analytics Specialist at Accenture. I am also p
 ![MLIR](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/mlir-color-dark-tritanopia.svg)
 ![Git](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/git-color2.svg)
 ![Github](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-github-50.svg)
-
 
