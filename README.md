@@ -1,4 +1,6 @@
-![Kaizen](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg) 
+![Kaizen](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg)
+
+***"Improving through small, incremental steps over time - ***Kaizen***._***
 
 
 
