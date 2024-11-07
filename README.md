@@ -1,6 +1,7 @@
+<p align="center">
 ![Kaizen](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg)
 
-<p align="center" style="color:gray;">
+    align="center" style="color:gray;">
     <i>Improving through small, incremental steps over time - <b>Kaizen</b>.</i>
 </p>
 
