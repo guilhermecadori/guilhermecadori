@@ -10,7 +10,7 @@
 
 I am an engineer with a strong interest in machine learning, optimization, and solving complex problems through advanced algorithmic and quantitative approaches. Learning from others and sharing knowledge are two of my core values.
 
-I currently serve as a Modeling & Analytics Specialist at Accenture. I am also pursuing a Master’s degree in Applied Optimization and a Bachelor’s in Computer Science.
+I currently serve as a Modeling & Analytics Specialist at Accenture. I am also pursuing a Master’s degree in Numerical Methods and Applied Optimization and a Bachelor’s in Computer Science.
 
 
 ### Languages
