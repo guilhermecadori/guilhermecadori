@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg" alt="Kaizen" height="250" width="250"/>
+    <img src="https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg" alt="Kaizen" height="251" width="251"/>
 </div>
 <p align="center" style="color:gray;">
     <i>Improving through consistent and incremental steps over time - <b>Kaizen</b>.</i>
