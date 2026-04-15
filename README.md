@@ -1,5 +1,9 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg" alt="Kaizen" height="60" width="400"/>
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg"/>
+        <img src="https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/Kaizen_edit-2-Resized.svg" alt="Kaizen" width="400" height="60"/>
+    </picture>
 </div>
 <p align="center" style="color:gray;">
     <i>Improving through consistent and incremental steps over time - <b>Kaizen</b>.</i>
