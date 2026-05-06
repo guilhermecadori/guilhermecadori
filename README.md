@@ -27,7 +27,7 @@ I currently serve as a Data Scientist at Capgemini. I hold a Master’s degree i
 ![PostgreSQL](https://github.com/guilhermecadori/imagesRepo/blob/main/icons8-postgresql-50.svg)
 
 
-### Tools
+### Main tools
 
 ![Pytorch](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/icons8-lanterna-48.svg)
 ![TensorFlow](https://raw.githubusercontent.com/guilhermecadori/imagesRepo/refs/heads/main/tensorflow-svgrepo-com.svg)
